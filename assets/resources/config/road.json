@@ -1,0 +1,246 @@
+[
+  {
+    "road": 1,
+    "type": 0,
+    "height": 50,
+    "child": [
+      {
+        "road": 3,
+        "type": 0
+      },
+      {
+        "road": 4,
+        "type": 0
+      },
+      {
+        "road": 1,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 1,
+    "type": 1,
+    "height": 50,
+    "child": [
+      {
+        "road": 5,
+        "type": 1
+      },
+      {
+        "road": 6,
+        "type": 1
+      },
+      {
+        "road": 1,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "road": 2,
+    "type": 0,
+    "height": 100,
+    "child": [
+      {
+        "road": 6,
+        "type": 0
+      },
+      {
+        "road": 2,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 2,
+    "type": 1,
+    "height": 100,
+    "child": [
+      {
+        "road": 5,
+        "type": 0
+      },
+      {
+        "road": 2,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "road": 3,
+    "type": 0,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 2,
+        "type": 1
+      },
+      {
+        "road": 5,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 3,
+    "type": 1,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 5,
+        "type": 1
+      },
+      {
+        "road": 6,
+        "type": 1
+      },
+      {
+        "road": 1,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "road": 4,
+    "type": 0,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 2,
+        "type": 0
+      },
+      {
+        "road": 6,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 4,
+    "type": 1,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 5,
+        "type": 1
+      },
+      {
+        "road": 6,
+        "type": 1
+      },
+      {
+        "road": 1,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "road": 5,
+    "type": 0,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 1,
+        "type": 0
+      },
+      {
+        "road": 3,
+        "type": 0
+      },
+      {
+        "road": 4,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 5,
+    "type": 1,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 2,
+        "type": 0
+      },
+      {
+        "road": 6,
+        "type": 0
+      },
+      {
+        "road": 3,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "road": 6,
+    "type": 0,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 3,
+        "type": 0
+      },
+      {
+        "road": 4,
+        "type": 0
+      },
+      {
+        "road": 1,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "road": 6,
+    "type": 1,
+    "height": [
+      300,
+      150,
+      125
+    ],
+    "child": [
+      {
+        "road": 5,
+        "type": 0
+      },
+      {
+        "road": 4,
+        "type": 1
+      },
+      {
+        "road": 2,
+        "type": 1
+      }
+    ]
+  }
+]
